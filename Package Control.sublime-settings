@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 4 Autocomplete",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Enhancements",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Syntax Checker",
+		"Sass",
+		"Seti_UI",
+		"SublimeCodeIntel",
+		"Vue Syntax Highlight",
+		"VueFormatter"
+	]
+}
